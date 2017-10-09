@@ -9,6 +9,14 @@ MemLite is
 
 Supported Python versions: 2.6-2.7
 
+Installation
+---------------
+
+.. code-block:: bash
+
+   python setup.py install
+
+
 Usage
 ---------------
 
