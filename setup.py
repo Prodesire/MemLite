@@ -7,7 +7,8 @@ setup(
     author="Prodesire",
     author_email="Prodesire@yeah.net",
     description=
-    "a fast, pure-Python, untyped, in-memory database engine, using Python syntax to manage data, instead of SQL, inspired by PyDbLite.",
+    "A fast, pure-Python, untyped, in-memory database engine, using Python syntax to manage data, instead of SQL, inspired by PyDbLite.",
     license="MIT",
     keywords="database",
-    url="https://github.com/Prodesire/MemLite", )
+    url="https://github.com/Prodesire/MemLite"
+)
